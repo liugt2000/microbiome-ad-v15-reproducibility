@@ -1,0 +1,106 @@
+"genus","mean_coef","n_nonzero"
+"Lactobacillus",0.276328263001537,5
+"Methanobrevibacter",0.231075115137337,4
+"Dialister",-0.212800499749999,5
+"Oscillibacter",0.208698700161835,5
+"Romboutsia",-0.185548186481585,5
+"[Ruminococcus] gnavus group",0.141092773272616,5
+"Incertae Sedis",0.129427177734752,5
+"Fusobacterium",0.127350961808151,4
+"Enterococcus",0.11601675405882,5
+"Gordonibacter",-0.101350068551004,4
+"Lachnospira",-0.100796466581106,4
+"[Eubacterium] eligens group",-0.0973898991462116,4
+"Paraprevotella",0.0886631071498427,4
+"Eisenbergiella",0.0867707980198033,5
+"Akkermansia",0.0846989638530948,5
+"Enterobacter",0.0843566813225607,4
+"Collinsella",0.0825394936479518,5
+"Sutterella",-0.0747619591487325,3
+"Parasutterella",-0.0722010214597216,5
+"Desulfovibrio",0.0698205392734277,4
+"Anaerostipes",0.061719853558378,4
+"Prevotella_9",0.0591456553709149,4
+"Streptococcus",0.0577479223596142,4
+"UCG-003",0.0573792860128159,3
+"Bifidobacterium",0.0506919960270192,5
+"Coprococcus",-0.0491320743508209,4
+"[Ruminococcus] torques group",-0.0477206852581675,4
+"Lachnoclostridium",-0.0473650692057199,4
+"[Eubacterium] xylanophilum group",0.043870443168079,3
+"f__Coriobacteriales Incertae Sedis",0.0411006176376402,2
+"Butyricicoccus",-0.0406553003758579,4
+"Senegalimassilia",-0.0404472232786082,3
+"Lachnospiraceae UCG-010",-0.0388342887673594,2
+"f__Mitochondria",-0.0365065498028989,4
+"Lachnospiraceae UCG-004",-0.0360131288407212,2
+"Parabacteroides",-0.0348641978713426,4
+"Klebsiella",-0.0348330195479572,3
+"Adlercreutzia",0.033724859032737,3
+"Ruminococcus",0.0333950545113247,4
+"Blautia",-0.0298582391477995,3
+"Eubacterium",0.0289506620182794,2
+"Haemophilus",-0.0277069784569097,2
+"Limosilactobacillus",0.0249573471108469,3
+"Lachnospiraceae FCS020 group",-0.0245192989938206,3
+"Bilophila",-0.0221328816209992,5
+"Christensenellaceae R-7 group",0.0213585679241128,4
+"Lachnospiraceae ND3007 group",0.0207608947843051,1
+"Hungatella",-0.0205282399274949,3
+"[Eubacterium] hallii group",0.0194183706260598,3
+"Tyzzerella",-0.0178547479314171,3
+"Phascolarctobacterium",-0.0177760238169148,3
+"Prevotella",0.0176573938645171,1
+"Fournierella",-0.0169626517502967,2
+"Faecalibacterium",-0.0169243521289834,3
+"f__Lachnospiraceae",-0.0168492663587419,3
+"Dorea",0.0163327296528728,1
+"[Eubacterium] siraeum group",-0.0159157954838703,1
+"Lachnospiraceae NK4A136 group",-0.0156833131418981,3
+"[Eubacterium] ventriosum group",0.0141578270747811,2
+"Odoribacter",0.0127294848892467,1
+"Alistipes",-0.0121183170418014,3
+"Turicibacter",0.0118442624968084,2
+"Agathobacter",-0.0102587471896947,3
+"Escherichia-Shigella",0.00852477074440986,3
+"[Clostridium] innocuum group",-0.00809039159892393,1
+"Erysipelatoclostridium",0.00761224131216268,1
+"CAG-56",-0.00760153160733824,2
+"Monoglobus",-0.00733919384752653,1
+"CAG-352",-0.00665484743069572,1
+"Clostridium sensu stricto 1",0.00665463713759906,1
+"[Ruminococcus] gauvreauii group",-0.00638240930657044,2
+"Holdemanella",0.0061794731379124,1
+"UCG-005",-0.00589170667437273,1
+"UCG-002",0.00508970678782147,1
+"Butyricimonas",-0.0048954111198471,2
+"Bacteroides",-0.00432342096393907,1
+"UBA1819",-0.00426577795991302,1
+"Veillonella",0.00374326236331584,1
+"Subdoligranulum",0.00343612891210537,1
+"Eggerthella",0.00339333358493368,1
+"Erysipelotrichaceae UCG-003",0.00319707723281522,2
+"f__Enterobacteriaceae",-0.00302375034762595,1
+"Aquamonas",-0.00257484955888627,1
+"Olsenella",-0.00191609796146746,2
+"Rothia",0.00174824119598584,1
+"Megasphaera",0.00165905339145335,1
+"Intestinibacter",-0.00131379177354991,2
+"Fusicatenibacter",-0.000440961930005253,1
+"Flavonifractor",0.000300302281176862,1
+"Actinomyces",0,0
+"Barnesiella",0,0
+"Colidextribacter",0,0
+"Family XIII AD3011 group",0,0
+"Intestinimonas",0,0
+"Ligilactobacillus",0,0
+"NK4A214 group",0,0
+"Roseburia",0,0
+"Sellimonas",0,0
+"Unknown",0,0
+"[Eubacterium] ruminantium group",0,0
+"f__Bifidobacteriaceae",0,0
+"f__Oscillospiraceae",0,0
+"f__Ruminococcaceae",0,0
+"f__UCG-010",0,0
+"f__[Eubacterium] coprostanoligenes group",0,0

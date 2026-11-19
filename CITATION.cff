@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Microbiome-AD v15 Reproducibility Package"
+message: "If you use this package, please cite the associated manuscript and this archive."
+type: dataset
+year: 2026
+authors:
+  - family-names: Liu
+    given-names: Tianyi
+  - family-names: Feng
+    given-names: Yi
+notes: "Full author list will be completed upon manuscript publication. Supports the v15 manuscript on butyrate- and hydrogen-metabolizing consortia and fecal taurine across the Alzheimer's disease continuum."
+license: MIT

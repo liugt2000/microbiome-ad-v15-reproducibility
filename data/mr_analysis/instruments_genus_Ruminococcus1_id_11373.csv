@@ -1,0 +1,2 @@
+bac,chr,bp,rsID,ref.allele,eff.allele,beta,SE,Z.weightedSumZ,P.weightedSumZ,N,Ncohorts
+genus.Ruminococcus1.id.11373,11,45688595,rs10769159,C,G,-0.0640276741862639,0.0110059223887925,-5.83774260587473,5.29128156558749e-09,16603,24

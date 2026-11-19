@@ -1,0 +1,378 @@
+{
+  "genus_meta": {
+    "n_genera": 102,
+    "n_sig_file": 24,
+    "n_sig_dl": 102,
+    "n_sig_reml": 102,
+    "max_absdiff_dl": 0.043947112019257405,
+    "max_absdiff_reml": 0.14624464790248498,
+    "best_match": "DL",
+    "mean_absdiff_dl": 0.0035362835182813435,
+    "mean_absdiff_reml": 0.010842770919232188,
+    "only_in_file_vs_dl": [],
+    "only_in_dl_vs_file": [
+      "Actinomyces",
+      "Adlercreutzia",
+      "Akkermansia",
+      "Alistipes",
+      "Anaerostipes",
+      "Aquamonas",
+      "Bacteroides",
+      "Barnesiella",
+      "Bifidobacterium",
+      "Bilophila",
+      "Blautia",
+      "Butyricimonas",
+      "CAG.352",
+      "CAG.56",
+      "Christensenellaceae.R.7.group",
+      "Colidextribacter",
+      "Coprococcus",
+      "Desulfovibrio",
+      "Dorea",
+      "Eggerthella",
+      "Eisenbergiella",
+      "Enterobacter",
+      "Erysipelotrichaceae.UCG.003",
+      "Escherichia.Shigella",
+      "Faecalibacterium",
+      "Flavonifractor",
+      "Fournierella",
+      "Fusicatenibacter",
+      "Fusobacterium",
+      "Gordonibacter",
+      "Holdemanella",
+      "Hungatella",
+      "Intestinibacter",
+      "Intestinimonas",
+      "Klebsiella",
+      "Lachnoclostridium",
+      "Lachnospiraceae.ND3007.group",
+      "Lachnospiraceae.UCG.010",
+      "Ligilactobacillus",
+      "Megasphaera",
+      "Methanobrevibacter",
+      "Monoglobus",
+      "NK4A214.group",
+      "Odoribacter",
+      "Olsenella",
+      "Oscillibacter",
+      "Parabacteroides",
+      "Paraprevotella",
+      "Phascolarctobacterium",
+      "Prevotella",
+      "Prevotella_9",
+      "Roseburia",
+      "Ruminococcus",
+      "Senegalimassilia",
+      "Streptococcus",
+      "Subdoligranulum",
+      "Sutterella",
+      "Turicibacter",
+      "Tyzzerella",
+      "UCG.002",
+      "UCG.003",
+      "UCG.005",
+      "Unknown",
+      "Veillonella",
+      "X.Clostridium..innocuum.group",
+      "X.Eubacterium..hallii.group",
+      "X.Eubacterium..ruminantium.group",
+      "X.Eubacterium..siraeum.group",
+      "X.Eubacterium..ventriosum.group",
+      "X.Ruminococcus..gauvreauii.group",
+      "X.Ruminococcus..torques.group",
+      "f__.Eubacterium..coprostanoligenes.group",
+      "f__Bifidobacteriaceae",
+      "f__Coriobacteriales.Incertae.Sedis",
+      "f__Enterobacteriaceae",
+      "f__Oscillospiraceae",
+      "f__Ruminococcaceae",
+      "f__UCG.010"
+    ],
+    "only_in_file_vs_reml": [],
+    "only_in_reml_vs_file": [
+      "Actinomyces",
+      "Adlercreutzia",
+      "Akkermansia",
+      "Alistipes",
+      "Anaerostipes",
+      "Aquamonas",
+      "Bacteroides",
+      "Barnesiella",
+      "Bifidobacterium",
+      "Bilophila",
+      "Blautia",
+      "Butyricimonas",
+      "CAG.352",
+      "CAG.56",
+      "Christensenellaceae.R.7.group",
+      "Colidextribacter",
+      "Coprococcus",
+      "Desulfovibrio",
+      "Dorea",
+      "Eggerthella",
+      "Eisenbergiella",
+      "Enterobacter",
+      "Erysipelotrichaceae.UCG.003",
+      "Escherichia.Shigella",
+      "Faecalibacterium",
+      "Flavonifractor",
+      "Fournierella",
+      "Fusicatenibacter",
+      "Fusobacterium",
+      "Gordonibacter",
+      "Holdemanella",
+      "Hungatella",
+      "Intestinibacter",
+      "Intestinimonas",
+      "Klebsiella",
+      "Lachnoclostridium",
+      "Lachnospiraceae.ND3007.group",
+      "Lachnospiraceae.UCG.010",
+      "Ligilactobacillus",
+      "Megasphaera",
+      "Methanobrevibacter",
+      "Monoglobus",
+      "NK4A214.group",
+      "Odoribacter",
+      "Olsenella",
+      "Oscillibacter",
+      "Parabacteroides",
+      "Paraprevotella",
+      "Phascolarctobacterium",
+      "Prevotella",
+      "Prevotella_9",
+      "Roseburia",
+      "Ruminococcus",
+      "Senegalimassilia",
+      "Streptococcus",
+      "Subdoligranulum",
+      "Sutterella",
+      "Turicibacter",
+      "Tyzzerella",
+      "UCG.002",
+      "UCG.003",
+      "UCG.005",
+      "Unknown",
+      "Veillonella",
+      "X.Clostridium..innocuum.group",
+      "X.Eubacterium..hallii.group",
+      "X.Eubacterium..ruminantium.group",
+      "X.Eubacterium..siraeum.group",
+      "X.Eubacterium..ventriosum.group",
+      "X.Ruminococcus..gauvreauii.group",
+      "X.Ruminococcus..torques.group",
+      "f__.Eubacterium..coprostanoligenes.group",
+      "f__Bifidobacteriaceae",
+      "f__Coriobacteriales.Incertae.Sedis",
+      "f__Enterobacteriaceae",
+      "f__Oscillospiraceae",
+      "f__Ruminococcaceae",
+      "f__UCG.010"
+    ],
+    "key_genera_all_match_file": false
+  },
+  "alpha": {
+    "richness": {
+      "file": [
+        -0.0411684060478219,
+        0.758790291727017
+      ],
+      "dl": [
+        -0.04081079719095276,
+        0.7569277588870753
+      ],
+      "reml": [
+        -0.03533118442743671,
+        0.7486193989234242
+      ]
+    },
+    "shannon": {
+      "file": [
+        -0.186644261625096,
+        0.200272511897136
+      ],
+      "dl": [
+        -0.1850924301849777,
+        0.20964865193671867
+      ],
+      "reml": [
+        -0.2022778816106895,
+        0.12111833346404155
+      ]
+    },
+    "simpson": {
+      "file": [
+        -0.0445570096468911,
+        0.769781656014541
+      ],
+      "dl": [
+        -0.04788967512827893,
+        0.7468774453851559
+      ],
+      "reml": [
+        -0.06131543927693871,
+        0.65017672600854
+      ]
+    },
+    "chao1": {
+      "file": [
+        -0.0387155565336037,
+        0.767060458014738
+      ],
+      "dl": [
+        -0.038511785918510566,
+        0.766020146927038
+      ],
+      "reml": [
+        -0.03274170232502558,
+        0.759678199878028
+      ]
+    }
+  },
+  "pathway": {
+    "scfa_total_producers": {
+      "file": [
+        -0.5240543827005216,
+        0.00415628259026346
+      ],
+      "repro_dl": [
+        -0.5240543827005217,
+        0.00415628259026346
+      ]
+    },
+    "propanoate_metabolism": {
+      "file": [
+        -0.6387784026883837,
+        0.05164330829496011
+      ],
+      "repro_dl": [
+        -0.6387784026883837,
+        0.05164330829496011
+      ]
+    },
+    "butanoate_metabolism": {
+      "file": [
+        -0.502062451005919,
+        0.08033032581549371
+      ],
+      "repro_dl": [
+        -0.502062451005919,
+        0.08033032581549371
+      ]
+    },
+    "lps_pro-inflammatory": {
+      "file": [
+        -0.44472607737022013,
+        0.1396549033880028
+      ],
+      "repro_dl": [
+        -0.5962480649801665,
+        0.12153140370249771
+      ]
+    },
+    "tryptophan_metabolism": {
+      "file": [
+        -0.3366317962356134,
+        0.34258935146110026
+      ],
+      "repro_dl": [
+        -0.3366317962356134,
+        0.34258935146110026
+      ]
+    },
+    "bile_acid_metabolism": {
+      "file": [
+        -0.20295051657619256,
+        0.6033283664280553
+      ],
+      "repro_dl": [
+        -0.20295051657619262,
+        0.6033283664280553
+      ]
+    },
+    "acetate_producers": {
+      "file": [
+        -0.12644239172514263,
+        0.7238757312355655
+      ],
+      "repro_dl": [
+        -0.12644239172514263,
+        0.7238757312355655
+      ]
+    }
+  },
+  "hydrogen": {
+    "h2s_producers": {
+      "file": [
+        -0.29931887045058897,
+        0.0015353086763858492
+      ],
+      "repro_dl": [
+        -0.29931887045058897,
+        0.0015353086763858492
+      ]
+    },
+    "h2_producers_fermentative": {
+      "file": [
+        -0.186029915125736,
+        0.015584112447561527
+      ],
+      "repro_dl": [
+        -0.186029915125736,
+        0.015584112447561527
+      ]
+    },
+    "h2_consumers_acetogens": {
+      "file": [
+        -0.42556245755184546,
+        0.06272321951076387
+      ],
+      "repro_dl": [
+        -0.42556245755184546,
+        0.06272321951076387
+      ]
+    },
+    "h2_consumers_total": {
+      "file": [
+        -0.42492276234913867,
+        0.06556963730049592
+      ],
+      "repro_dl": [
+        -0.42492276234913867,
+        0.06556963730049592
+      ]
+    },
+    "h2_balance_index": {
+      "file": [
+        0.06214962523299707,
+        0.4668622705135206
+      ],
+      "repro_dl": [
+        0.06214962523299707,
+        0.4668622705135206
+      ]
+    },
+    "h2_consumers_sulfate_reducers": {
+      "file": [
+        0.0746206783987929,
+        0.6339999535583827
+      ],
+      "repro_dl": [
+        0.10661365963307895,
+        0.5954323984859138
+      ]
+    },
+    "h2_producers_core": {
+      "file": [
+        -0.04867812350003923,
+        0.7549814136734148
+      ],
+      "repro_dl": [
+        -0.04867812350003923,
+        0.7549814136734148
+      ]
+    }
+  }
+}
