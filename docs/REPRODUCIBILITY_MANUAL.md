@@ -111,4 +111,6 @@ Numbers in §3.3–3.4 (guild/pathway/PICRUSt2 meta-analyses) and alpha/beta div
 
 ## 7. Verification evidence / 闭环核验
 
-Before release, all seven scripts were re-run from inside this repository and every output CSV/NPY was diffed against the frozen results used to write v15 (see release notes / `results/`). Maximum absolute numeric differences are reported in the release diff summary; all key manuscript numbers matched.
+Before release, all seven scripts were re-run from inside this repository and every output CSV/NPY was diffed against the frozen results used to write v15. **Result: all 22 compared files matched exactly (maxabsdiff = 0, text identical), including the 117×1,873 rho/p matrices.** Machine-readable report: `docs/verification_diff.json`.
+
+Additional closed-loop checks within the run: forward IVW MR for 30 genera — max |ΔOR| = 0 and max |Δp| = 0 vs archive; instrument re-selection from MiBioGen all-hits — 373 SNPs re-extracted with 0 mismatches (370 across the 30 genera with ≥3 instruments; Faecalibacterium, Romboutsia, Ruminococcus1 excluded with 1 SNP each); harmonized reverse MR — Bacteroides p = 1.35e-4 (FDR = 0.014), Bifidobacterium p = 0.626.

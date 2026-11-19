@@ -14,6 +14,7 @@ mr = os.path.join(REPO, 'data', 'mr_analysis')
 OUTDIR = os.path.join(REPO, 'results', 'verification')
 os.makedirs(OUTDIR, exist_ok=True)
 mat = pd.read_csv(os.path.join(mr, 'reverse_mr_snp_matches.csv'))
+bio = pd.read_csv(os.path.join(mr, 'bifido_mibio_full_snps.csv'), index_col=0)
 # ===== 用 Bifidobacterium 文件提供的等位基因做协调，重算全部104属反向MR =====
 mbg_eff = bio['eff'].str.upper()
 mbg_ref = bio['ref'].str.upper()
