@@ -1,0 +1,27 @@
+{
+  "n_samples": 84,
+  "correction": "ddof=0 standardized cross-products divided by n, not n-1",
+  "legacy_scaling_factor": 1.0120481927710843,
+  "max_abs_rho_difference_after_rescaling_legacy": 1.1102230246251565e-16,
+  "module5_taurine": {
+    "metab_id": "metab_15244",
+    "name": "Taurine",
+    "rho": 0.2521008403361345,
+    "p": 0.020699445173288825,
+    "FDR": 0.05445233259771067
+  },
+  "Blautia_taurine": {
+    "rho": 0.21364786878606862,
+    "p": 0.05101313986220218,
+    "FDR": 0.11937074727755309
+  },
+  "strong_edges": 137,
+  "positive_edges": 52,
+  "negative_edges": 85,
+  "genera": 20,
+  "metabolites": 73,
+  "hub_top3_observed_mean_degree": 26.0,
+  "hub_permutation_p": 0.0,
+  "n_permutations": 2000,
+  "seed": 20261119
+}

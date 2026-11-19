@@ -1,0 +1,130 @@
+{
+  "files_compared": 17,
+  "all_identical": true,
+  "portable_scripts_executed": [
+    "09_recompute_corrected_associations.py",
+    "10_discovery_covariate_sensitivity.py",
+    "12_summarize_compositional.R"
+  ],
+  "files": [
+    {
+      "source": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\09_End_to_End_Validation\\corrected_discovery\\corrected_association_summary.json",
+      "repository": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\08_Reproducibility_Package\\results\\corrected_discovery\\corrected_association_summary.json",
+      "sha256_source": "d72e8a7595c845b78fade80f3116918b846849db7b3958c7025f30293d0ff18a",
+      "sha256_repository": "d72e8a7595c845b78fade80f3116918b846849db7b3958c7025f30293d0ff18a",
+      "identical": true
+    },
+    {
+      "source": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\09_End_to_End_Validation\\corrected_discovery\\fdr_matrix_corrected.npy",
+      "repository": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\08_Reproducibility_Package\\results\\corrected_discovery\\fdr_matrix_corrected.npy",
+      "sha256_source": "481bf165a257ca0817c2938c967dfc6a64a6f1c966ec3ee893f527e057f26b20",
+      "sha256_repository": "481bf165a257ca0817c2938c967dfc6a64a6f1c966ec3ee893f527e057f26b20",
+      "identical": true
+    },
+    {
+      "source": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\09_End_to_End_Validation\\corrected_discovery\\hub_permutation_null.npy",
+      "repository": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\08_Reproducibility_Package\\results\\corrected_discovery\\hub_permutation_null.npy",
+      "sha256_source": "ea4d693179d68d685241f65295f2cedb6bbccd084b0d454120a90c8bedfaf8d6",
+      "sha256_repository": "ea4d693179d68d685241f65295f2cedb6bbccd084b0d454120a90c8bedfaf8d6",
+      "identical": true
+    },
+    {
+      "source": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\09_End_to_End_Validation\\corrected_discovery\\module_disease_metabolite_assoc_corrected.csv",
+      "repository": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\08_Reproducibility_Package\\results\\corrected_discovery\\module_disease_metabolite_assoc_corrected.csv",
+      "sha256_source": "533ee87aaa486fa97cfd6404fe2d2aacf55fdda152fa41953537fa0356c7e9df",
+      "sha256_repository": "533ee87aaa486fa97cfd6404fe2d2aacf55fdda152fa41953537fa0356c7e9df",
+      "identical": true
+    },
+    {
+      "source": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\09_End_to_End_Validation\\corrected_discovery\\module_trait_correlations_corrected.csv",
+      "repository": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\08_Reproducibility_Package\\results\\corrected_discovery\\module_trait_correlations_corrected.csv",
+      "sha256_source": "3285a9e8592047448ce0115349837f5a55403040eaf5ea98a9d68cb8b36ffa8d",
+      "sha256_repository": "3285a9e8592047448ce0115349837f5a55403040eaf5ea98a9d68cb8b36ffa8d",
+      "identical": true
+    },
+    {
+      "source": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\09_End_to_End_Validation\\corrected_discovery\\network_edges_strong_corrected.csv",
+      "repository": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\08_Reproducibility_Package\\results\\corrected_discovery\\network_edges_strong_corrected.csv",
+      "sha256_source": "def0a928930bf12d8c690093afa982796b5e444fa0d2ed457cb100369da7c049",
+      "sha256_repository": "def0a928930bf12d8c690093afa982796b5e444fa0d2ed457cb100369da7c049",
+      "identical": true
+    },
+    {
+      "source": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\09_End_to_End_Validation\\corrected_discovery\\network_threshold_counts.csv",
+      "repository": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\08_Reproducibility_Package\\results\\corrected_discovery\\network_threshold_counts.csv",
+      "sha256_source": "e6298c39732cbbd148334b9ca41c12e7813a900ce507a187f4cd3d8f4fb0a974",
+      "sha256_repository": "e6298c39732cbbd148334b9ca41c12e7813a900ce507a187f4cd3d8f4fb0a974",
+      "identical": true
+    },
+    {
+      "source": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\09_End_to_End_Validation\\corrected_discovery\\p_matrix_corrected.npy",
+      "repository": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\08_Reproducibility_Package\\results\\corrected_discovery\\p_matrix_corrected.npy",
+      "sha256_source": "ee01cfc116c49f520d208df258c5f094a02a2cd6afda125e3cb3ad3bee75b1e6",
+      "sha256_repository": "ee01cfc116c49f520d208df258c5f094a02a2cd6afda125e3cb3ad3bee75b1e6",
+      "identical": true
+    },
+    {
+      "source": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\09_End_to_End_Validation\\corrected_discovery\\rho_matrix_corrected.npy",
+      "repository": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\08_Reproducibility_Package\\results\\corrected_discovery\\rho_matrix_corrected.npy",
+      "sha256_source": "45d93d78cfb9e4d67d4f55e4df8f022450dbfdf8bff221ab9106ed0b673ec72a",
+      "sha256_repository": "45d93d78cfb9e4d67d4f55e4df8f022450dbfdf8bff221ab9106ed0b673ec72a",
+      "identical": true
+    },
+    {
+      "source": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\09_End_to_End_Validation\\corrected_discovery\\taurine_genus_assoc_corrected.csv",
+      "repository": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\08_Reproducibility_Package\\results\\corrected_discovery\\taurine_genus_assoc_corrected.csv",
+      "sha256_source": "78be85c8a420fc3bc92c5987c8d19e81d2c327a746605182922e97a8a52291a6",
+      "sha256_repository": "78be85c8a420fc3bc92c5987c8d19e81d2c327a746605182922e97a8a52291a6",
+      "identical": true
+    },
+    {
+      "source": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\09_End_to_End_Validation\\sensitivity\\covariates\\covariate_availability.csv",
+      "repository": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\08_Reproducibility_Package\\results\\sensitivity\\covariates\\covariate_availability.csv",
+      "sha256_source": "8ce1fdde06dbfe38cca8144366b9d27f9b134c8f0b6a276393aac0982403b99e",
+      "sha256_repository": "8ce1fdde06dbfe38cca8144366b9d27f9b134c8f0b6a276393aac0982403b99e",
+      "identical": true
+    },
+    {
+      "source": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\09_End_to_End_Validation\\sensitivity\\covariates\\mediation_covariate_sensitivity.csv",
+      "repository": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\08_Reproducibility_Package\\results\\sensitivity\\covariates\\mediation_covariate_sensitivity.csv",
+      "sha256_source": "7913c1f13d4152c4e28cf8a80bdaf2775c8d15d9d3c510a9ae9333ec7be6af9b",
+      "sha256_repository": "7913c1f13d4152c4e28cf8a80bdaf2775c8d15d9d3c510a9ae9333ec7be6af9b",
+      "identical": true
+    },
+    {
+      "source": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\09_End_to_End_Validation\\sensitivity\\covariates\\mediation_leave_one_group_out.csv",
+      "repository": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\08_Reproducibility_Package\\results\\sensitivity\\covariates\\mediation_leave_one_group_out.csv",
+      "sha256_source": "5b6ca6f3f87c3b4eb3d7a88067af516561a42ef3c0b6c6e86eb70e46c4caf1e3",
+      "sha256_repository": "5b6ca6f3f87c3b4eb3d7a88067af516561a42ef3c0b6c6e86eb70e46c4caf1e3",
+      "identical": true
+    },
+    {
+      "source": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\09_End_to_End_Validation\\sensitivity\\covariates\\partial_association_nonHC_sensitivity.csv",
+      "repository": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\08_Reproducibility_Package\\results\\sensitivity\\covariates\\partial_association_nonHC_sensitivity.csv",
+      "sha256_source": "d6033ec26217dcd7ca18a891f019baf4cd73bd67afcf6a01405c2ac2da3a0e53",
+      "sha256_repository": "d6033ec26217dcd7ca18a891f019baf4cd73bd67afcf6a01405c2ac2da3a0e53",
+      "identical": true
+    },
+    {
+      "source": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\09_End_to_End_Validation\\sensitivity\\covariates\\partial_association_sensitivity.csv",
+      "repository": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\08_Reproducibility_Package\\results\\sensitivity\\covariates\\partial_association_sensitivity.csv",
+      "sha256_source": "918d7c494cef374ce82c0964eb1bf361e3b676500e2d060875ddb580f431a371",
+      "sha256_repository": "918d7c494cef374ce82c0964eb1bf361e3b676500e2d060875ddb580f431a371",
+      "identical": true
+    },
+    {
+      "source": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\09_End_to_End_Validation\\sensitivity\\compositional\\all_cohort_compositional_results.csv",
+      "repository": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\08_Reproducibility_Package\\results\\sensitivity\\compositional\\all_cohort_compositional_results.csv",
+      "sha256_source": "18c293f19411544f48f859f07e24454fe8391a943898580e71954e3804c9423d",
+      "sha256_repository": "18c293f19411544f48f859f07e24454fe8391a943898580e71954e3804c9423d",
+      "identical": true
+    },
+    {
+      "source": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\09_End_to_End_Validation\\sensitivity\\compositional\\core_genera_reml_hk.csv",
+      "repository": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\08_Reproducibility_Package\\results\\sensitivity\\compositional\\core_genera_reml_hk.csv",
+      "sha256_source": "8535172bb6a51ecfc4fa60193f62cb4f957abcd3fddd7a2feb66a024eebedb75",
+      "sha256_repository": "8535172bb6a51ecfc4fa60193f62cb4f957abcd3fddd7a2feb66a024eebedb75",
+      "identical": true
+    }
+  ]
+}

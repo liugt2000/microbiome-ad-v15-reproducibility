@@ -1,0 +1,9 @@
+check,result
+17 figures generated,PASS
+PNG integrity and non-trivial file size,PASS
+24 primary MaAsLin2 genera,PASS
+harmonized reverse MR Bacteroides p,PASS
+corrected strong network edges satisfy |rho|>=0.6 and FDR<0.05,PASS
+corrected unadjusted mediation indirect effect and CI includes zero,PASS
+all legacy PNG files inventoried with hashes,PASS (51)
+visual inspection,PASS (contact sheets and full-resolution schematics reviewed)

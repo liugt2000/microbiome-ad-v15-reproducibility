@@ -1,0 +1,14 @@
+{
+  "manuscript": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\01_Manuscript\\Manuscript_Microbiome_v16_Microbiome.docx",
+  "manuscript_sha256": "fabefa6d2e8d1830d04c0fa120b0559d14bdb1aed9d40a03f73c8c858a28d7de",
+  "main_figures_embedded": 8,
+  "supplement": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\03_Supplementary_Figures\\Supplementary_Material_Microbiome_v16.docx",
+  "supplement_sha256": "90c0577f703d3414b5b8591fcc217a59f71fae79a756892dfc5616d492b95b8a",
+  "supplementary_figures_embedded": 9,
+  "cover_letter": "C:\\Users\\PC\\Documents\\冯熠的面上项目-肠道菌群分析原始数据\\第5篇荟萃分析\\Microbiome_v14_投稿包\\06_Cover_Letter\\Cover_Letter_Microbiome_v16.docx",
+  "cover_sha256": "205af8dc3840e756461b9fece61c2f8b4c204f85ef0c0af79560fa7a9d2eb2f4",
+  "forbidden_legacy_values": "PASS",
+  "required_corrected_values": "PASS",
+  "raw_DADA2_status": "separate background task; not claimed complete",
+  "raw_metabolomics_status": "processed matrix only; spectra not located"
+}

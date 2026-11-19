@@ -1,0 +1,19 @@
+{
+  "education_mapping_years": {
+    "Elementary School": 6.0,
+    "Middle School": 9.0,
+    "High School": 12.0,
+    "College": 16.0
+  },
+  "legacy_issue": "String education labels were coerced to NaN and then replaced by zero; the historical adjusted estimate therefore adjusted only age and sex.",
+  "association_primary_sensitivity": "Partial Spearman calculated as Pearson correlation of rank residuals. Legacy ranked-residual output is also retained.",
+  "mediation": "Blautia and taurine are rank transformed before OLS; MMSE remains on its original scale. Covariates enter a, b and total-effect models. Bootstrap uses 5000 shared resamples per model.",
+  "seed": 20261119,
+  "m5_n_genera": 33,
+  "education_counts": {
+    "Middle School": 33,
+    "College": 24,
+    "High School": 19,
+    "Elementary School": 8
+  }
+}

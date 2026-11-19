@@ -1,0 +1,22 @@
+dataset,variable,n_available,n_total
+discovery,Age,84,84
+discovery,Gender,84,84
+discovery,Education,84,84
+discovery,MMSE,84,84
+discovery,HAMD,84,84
+discovery,HAMA,84,84
+discovery,Course of Disease,84,84
+discovery,BMI,0,84
+discovery,APOE,0,84
+discovery,antibiotics,0,84
+discovery,proton_pump_inhibitors,0,84
+discovery,statins,0,84
+public_755,Age,0,755
+public_755,Gender,0,755
+public_755,Education,0,755
+public_755,BMI,0,755
+public_755,MMSE,0,755
+public_755,HAMD,0,755
+public_755,HAMA,0,755
+public_755,APOE,0,755
+public_755,medications,0,755
